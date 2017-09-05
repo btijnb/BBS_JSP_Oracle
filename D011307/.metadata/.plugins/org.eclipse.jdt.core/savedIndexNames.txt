@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Ch\OneDrive\1.Prioritized\Projects.BeforeGoToJapan\BBS_JSP_MySQL\D011307\.metadata\.plugins\org.eclipse.jdt.core
+198403872.index
+729691320.index
+1963678187.index
+1797891778.index
