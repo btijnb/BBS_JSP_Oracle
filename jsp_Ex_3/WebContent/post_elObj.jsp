@@ -17,6 +17,8 @@ elObj.jsp -> post_elObj.jsp
 			 pageScope는 page 범위 벗어나서, 
 			 requestScope는 elObj.jsp와 post_elObj.jsp의 request가 다름 -?
 
+	.xml -?
+	
 -->
 
 
@@ -61,6 +63,15 @@ applicationScope: ${applicationScope.appName}<br/>
 sessionScope:     ${sessionScope.sessionName}<br/>
 pageScope:        ${pageScope.pageName}<br/>
 requestScope:     ${requestScope.reqName}
+
+
+<hr/>
+
+<h3>context 초기화 파라미터</h3>
+
+${initParam.cont_1}<br/>
+${initParam.cont_2}<br/>
+${initParam.cont_3}
 
 </body>
 </html>
