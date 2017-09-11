@@ -1,0 +1,12 @@
+<The things I reviewed with books and online sites>
+
+17/9/11
+
+1. I reviewed basic JAVA concepts
+
+	1) The differences between class and instance
+	2) The definition of constructor
+	3) The definition of inheritance
+	4) The definition of interface
+
+----------------------------------------------------------
