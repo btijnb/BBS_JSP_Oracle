@@ -17,6 +17,12 @@
 	
 	1) The definition of interface
 	2) The definition of DAO and DTO
-	3) Data structures
+	3) The definition of data structures
 
 ----------------------------------------------------------
+
+17/9/13
+
+1. I reviewed basic JAVA concepts
+	1) The definition of data structures
+	2) The definition of overriding
