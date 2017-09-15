@@ -26,3 +26,11 @@
 1. I reviewed basic JAVA concepts
 	1) The definition of data structures
 	2) The definition of overriding
+
+----------------------------------------------------------
+
+17/9/14
+
+1. I reviewed basic JAVA concepts
+	1) The definition of JDBC(DAO, DTO)
+	2) The definition of overriding and overloading
