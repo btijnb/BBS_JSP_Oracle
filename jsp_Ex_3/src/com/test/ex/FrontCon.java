@@ -1,5 +1,20 @@
-package com.test.ex;
+/*
+ex) 학생정보를 DB에서 조회(select)/ 구조(2/5)
 
+	(생략)
+	
+	command가 studentAll.do와 같다면
+	
+		StudentAllService의 execute메소드에서/
+		
+		StudentDTO 타입의 arraylist를 받아와/ 출력
+			-왜 arraylist에서 곧바로 변수에 세팅하지 않는 걸까 -?
+	
+	(생략)
+	
+*/
+
+package com.test.ex;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.SQLException;
@@ -42,7 +57,7 @@ public class FrontCon extends HttpServlet {
 	}
 
 
-	private void actionDo(HttpServletRequest request,
+	protected void actionDo(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException, SQLException {
 		System.out.println("actionDo");
 		

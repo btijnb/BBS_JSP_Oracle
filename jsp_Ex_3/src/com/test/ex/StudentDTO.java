@@ -1,3 +1,9 @@
+/*
+
+ex) 학생정보를 DB에서 조회(select)/ 구조(5/5)
+
+*/
+
 package com.test.ex;
 
 public class StudentDTO {
