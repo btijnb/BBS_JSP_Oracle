@@ -28,11 +28,11 @@ import javax.servlet.http.HttpServletResponse;
 
 
 @WebServlet("*.do")
-public class FrontCon extends HttpServlet {
+public class FronCon1 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
 
-    public FrontCon() {
+    public FronCon1() {
         super();
     }
 
@@ -80,7 +80,7 @@ public class FrontCon extends HttpServlet {
 				String name = sdto.getName();
 				String hp = sdto.getHp();
 				
-				writer.println(no+", "+pw+", "+name+", "+hp);
+				writer.println(no+", "+pw+", "+name+", "+hp+"<hr/>");
 			}
 			
 			writer.println("</body></html>");
